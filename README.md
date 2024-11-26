@@ -11,10 +11,10 @@ El dataset incluye características individuales de los solicitantes y garantiza
 - Valor 0: No hubo dificultades.
 
 #### **Objetivos del Análisis**
-Familiarizarse con el dataset y sus características.
-Examinar la distribución de las variables y sus relaciones, especialmente con la variable objetivo.
-Preparar los datos para su uso en algoritmos de Machine Learning.
-Identificar patrones, relaciones significativas y estructuras principales en el dataset.
+- Familiarizarse con el dataset y sus características.  
+- Examinar la distribución de las variables y sus relaciones, especialmente con la variable objetivo.  
+- Preparar los datos para su uso en algoritmos de Machine Learning.   
+- Identificar patrones, relaciones significativas y estructuras principales en el dataset.  
 
 -----------------------------------------------------------------------------------------
 
